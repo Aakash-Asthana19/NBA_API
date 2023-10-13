@@ -1,0 +1,123 @@
+cs1302-api:
+total 64
+-rw-r--r--. 1 myid  6658 Apr 30 22:23 APPENDIX_API.rst
+-rw-r--r--. 1 myid  4205 Apr 30 22:23 APPENDIX_GIT.rst
+drwxr-xr-x. 2 myid    59 May  4 18:21 meta
+-rw-r--r--. 1 myid  8370 Apr 30 22:23 pom.xml
+-rwxr-xr-x. 1 myid   105 Apr 30 22:23 prepare-merge.sh
+-rw-r--r--. 1 myid 26140 Apr 30 22:23 README.rst
+-rw-r--r--. 1 myid     0 May  4 18:29 rec12165
+drwxr-xr-x. 2 myid   149 May  1 17:44 resources
+-rwxr-xr-x. 1 myid   119 Apr 30 22:23 run.sh
+drwxr-xr-x. 4 myid    42 Apr 30 22:23 src
+drwxr-xr-x. 5 myid   104 May  4 17:34 target
+
+cs1302-api/meta:
+total 8
+-rw-r--r--. 1 myid  511 May  4 18:03 ATTRIBUTION.md
+-rw-r--r--. 1 myid 2398 May  4 18:21 DEADLINE.md
+
+cs1302-api/resources:
+total 2336
+-rw-r--r--. 1 myid  121379 May  1 17:44 AllNBALogos.jpg
+-rw-r--r--. 1 myid      42 Apr 30 22:23 config.properties
+-rw-r--r--. 1 myid  110170 May  1 17:44 NBALogo.png
+-rw-r--r--. 1 myid   23011 May  1 17:36 PersonOutline.png
+-rw-r--r--. 1 myid  582183 Apr 30 22:23 readme-banner.png
+-rw-r--r--. 1 myid 1540930 Apr 30 22:23 readme-newrepo.png
+
+cs1302-api/src:
+total 0
+drwxr-xr-x. 3 myid 26 Apr 30 22:23 main
+drwxr-xr-x. 3 myid 50 Apr 30 22:23 site
+
+cs1302-api/src/main:
+total 0
+drwxr-xr-x. 3 myid 56 Apr 30 22:23 java
+
+cs1302-api/src/main/java:
+total 4
+drwxr-xr-x. 3 myid  25 Apr 30 22:23 cs1302
+-rw-r--r--. 1 myid 373 Apr 30 22:23 module-info.java
+
+cs1302-api/src/main/java/cs1302:
+total 0
+drwxr-xr-x. 2 myid 176 May  4 17:31 api
+
+cs1302-api/src/main/java/cs1302/api:
+total 44
+-rw-r--r--. 1 myid 16307 May  4 17:31 ApiApp.java
+-rw-r--r--. 1 myid  1285 Apr 30 22:23 ApiDriver.java
+-rw-r--r--. 1 myid   321 May  2 16:33 APIResponse.java
+-rw-r--r--. 1 myid   812 May  2 16:13 DataItem.java
+-rw-r--r--. 1 myid  4332 Apr 30 22:23 OpenLibrarySearchApi.java
+-rw-r--r--. 1 myid  1670 Apr 30 22:23 PropertiesExample.java
+-rw-r--r--. 1 myid   253 May  2 16:01 TeamData.java
+
+cs1302-api/src/site:
+total 4
+drwxr-xr-x. 2 myid  33 Apr 30 22:23 markdown
+-rw-r--r--. 1 myid 424 Apr 30 22:23 site.xml
+
+cs1302-api/src/site/markdown:
+total 4
+-rw-r--r--. 1 myid 133 Apr 30 22:23 index.md.vm
+
+cs1302-api/target:
+total 4
+drwxr-xr-x. 3 myid  224 May  4 17:34 classes
+drwxr-xr-x. 3 myid   25 May  4 17:34 generated-sources
+drwxr-xr-x. 3 myid   43 May  4 17:34 maven-status
+-rw-r--r--. 1 myid 1255 May  4 17:34 modulepath
+
+cs1302-api/target/classes:
+total 2340
+-rw-r--r--. 1 myid  121379 May  4 17:34 AllNBALogos.jpg
+-rw-r--r--. 1 myid      42 May  4 17:34 config.properties
+drwxr-xr-x. 3 myid      25 May  4 17:34 cs1302
+-rw-r--r--. 1 myid     354 May  4 17:34 module-info.class
+-rw-r--r--. 1 myid  110170 May  4 17:34 NBALogo.png
+-rw-r--r--. 1 myid   23011 May  4 17:34 PersonOutline.png
+-rw-r--r--. 1 myid  582183 May  4 17:34 readme-banner.png
+-rw-r--r--. 1 myid 1540930 May  4 17:34 readme-newrepo.png
+
+cs1302-api/target/classes/cs1302:
+total 4
+drwxr-xr-x. 2 myid 4096 May  4 17:34 api
+
+cs1302-api/target/classes/cs1302/api:
+total 52
+-rw-r--r--. 1 myid 15273 May  4 17:34 ApiApp.class
+-rw-r--r--. 1 myid  1503 May  4 17:34 ApiDriver.class
+-rw-r--r--. 1 myid   452 May  4 17:34 APIResponse.class
+-rw-r--r--. 1 myid   886 May  4 17:34 DataItem.class
+-rw-r--r--. 1 myid  5993 May  4 17:34 OpenLibrarySearchApi.class
+-rw-r--r--. 1 myid   493 May  4 17:34 OpenLibrarySearchApi$OpenLibraryDoc.class
+-rw-r--r--. 1 myid   617 May  4 17:34 OpenLibrarySearchApi$OpenLibraryResult.class
+-rw-r--r--. 1 myid  1680 May  4 17:34 PropertiesExample.class
+-rw-r--r--. 1 myid   446 May  4 17:34 TeamData.class
+
+cs1302-api/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 10 May  4 17:34 annotations
+
+cs1302-api/target/generated-sources/annotations:
+total 0
+
+cs1302-api/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 May  4 17:34 maven-compiler-plugin
+
+cs1302-api/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 May  4 17:34 compile
+
+cs1302-api/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 64 May  4 17:34 default-compile
+
+cs1302-api/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid 332 May  4 17:34 createdFiles.lst
+-rw-r--r--. 1 myid 567 May  4 17:34 inputFiles.lst
+/home/myid/aa07658/cs1302-api:/home/myid/csci-1302
